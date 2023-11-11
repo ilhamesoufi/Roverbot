@@ -404,10 +404,11 @@ https://www.youtube.com/embed/zyvgy9-6oCM?start=52
 
 <h1 align="center">Team</h1>
 <ul>
+	<li> Ilhame Soufi</li>
 	<li> Ayoub Hsaine</li>
 	<li> Achraf Rachid</li>
 	<li> Mohamed Mouad Ouhasni </li>
 	<li> Aymane Baddou</li>
-	<li> Ilhame Soufi</li>
+	
 
 </ul>
